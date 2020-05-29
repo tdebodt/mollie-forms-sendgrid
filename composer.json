@@ -1,0 +1,13 @@
+{
+    "name": "kovilo/mollie-forms-sendgrid",
+    "type": "wordpress-plugin",
+    "require": {
+        "sendgrid/sendgrid": "~7"
+    },
+    "authors": [
+        {
+            "name": "tdebodt",
+            "email": "thomas@debodt.net"
+        }
+    ]
+}
